@@ -1,6 +1,9 @@
+# This fork is compatible with latest IntelliJ Idea and it's free!
+
 #Download
 
-* http://plugins.jetbrains.com/plugin/7293
+* You may directly install [dist](https://github.com/lizhanhui/intellij-mybatis-plugin/blob/fix/intellij-mybatis-plugin.jar) to use.
+* Original non-free version from seventh7 may be downloaded from http://plugins.jetbrains.com/plugin/7293
 
 # Features
 
@@ -31,3 +34,8 @@
     * Declaration of mapper interface、method or parameter
 * Shortcut: Option + Enter(Mac) | Alt + Enter(Windows)
 * To generate statement quickly, you can provide some method generating models with "Idea Setting" -> "Mybatis"
+
+
+# Contribute
+
+1. You are very welcome to file a bug report in Github Issues tab. Pull request, for sure, is sincerely appreciated. 
